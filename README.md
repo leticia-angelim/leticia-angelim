@@ -11,6 +11,7 @@
   <img align="center" alt="Let-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Let-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Let-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Let-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="right" alt="Let-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/103081652/162277244-ca661ac0-0587-4973-99bc-8f27e37f90b9.png">
 </div>
   
