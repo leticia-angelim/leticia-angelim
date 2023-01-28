@@ -1,4 +1,5 @@
-## Hey! I'm Leticia Angelim
+# Hey! I'm Leticia Angelim &#128522;
+## I love to code &hearts; and solve problems!
 
 <div align="center">
   <a href="https://github.com/leticia-angelim">
